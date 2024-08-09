@@ -8,7 +8,7 @@ From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science In
 
 * 🌍 I'm based in Thailand
 * ✉️ You can contact me at [nithadar.s@outlook.com](mailto:nithadar.s@outlook.com)
-* 📞 Phone: +66614195189
+* 📞 Phone number: `+66614195189`
 * 🧠 I'm learning different languages in writing
 
 ### Skills
