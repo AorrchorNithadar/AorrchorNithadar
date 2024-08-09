@@ -19,7 +19,7 @@ From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science In
 
 ### Educational Projects
 [React]
-* Create shop By React 🛒
+* Create shop By React 🛒/
 [Mocile App]
 * Create Mobile By Flutter 
 
