@@ -18,10 +18,8 @@ From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science In
 </p>
 
 ### Educational Projects
-[React]
-* Create shop By React 🛒/
-[Mocile App]
-* Create Mobile By Flutter 
+WEB : Create shop By React 🛒
+Mobile App : Create Mobile By Flutter 
 
 ### 📊 Power BI
 Certificate: https://learn.microsoft.com/en-us/users/NithadarSAMEERAK-5482
