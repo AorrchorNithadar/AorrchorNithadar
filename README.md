@@ -6,10 +6,10 @@ Software Developer ( Backend Developer )
 
 From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science Information Technology Branch
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [nithadar.s@outlook.com](mailto:nithadar.s@outlook.com)
-* 📞  You can contact me at [+66614195189](mailto:+66614195189)
-* 🧠  I'm learning Different languages ​​in writing
+* 🌍 I'm based in Thailand
+* ✉️ You can contact me at [nithadar.s@outlook.com](mailto:nithadar.s@outlook.com)
+* 📞 You can contact me at [+66614195189](tel:+66614195189)
+* 🧠 I'm learning different languages in writing
 
 ### Skills
 
