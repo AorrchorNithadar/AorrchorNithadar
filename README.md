@@ -18,10 +18,11 @@ From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science In
 </p>
 
 ### Educational Projects
+[WEB] 
+* Create shop By React 🛒
 
-WEB : Create shop By React 🛒
-
-Mobile App : Create Mobile By Flutter
+[Mobile App] 
+* Create Mobile By Flutter
 
 
 ### 📊 Power BI
