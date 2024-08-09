@@ -7,7 +7,6 @@ Software Developer ( Backend Developer )
 From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science Information Technology Branch
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My Port](http://https://github.com/AorrchorNithadar)
 * ✉️  You can contact me at [nithadar.s@outlook.com](mailto:nithadar.s@outlook.com)
 * 🧠  I'm learning Different languages ​​in writing
 
