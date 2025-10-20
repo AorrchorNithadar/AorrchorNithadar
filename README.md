@@ -32,6 +32,8 @@ SQL(Advanced) : https://github.com/AorrchorNithadar/Resume-Performance-Certifica
 
 Certificate of Academic Excellence : https://github.com/AorrchorNithadar/Resume-Performance-Certificate/blob/main/Certificate%20of%20Academic%20Excellence.pdf
 
+Cooperative Education Internship Certificate(2024) : https://github.com/AorrchorNithadar/Resume-Performance-Certificate/blob/main/Cooperative%20Education%20Internship%20Certificate.pdf
+
 
 ### Socials Contact
 
