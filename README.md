@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Nithadar SAMEERAK
 =========================================================================================================================================
 
-Software Developer ( Backend Developer )
+Software Developer
 ----------------------------------------
 
 From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science Information Technology Branch
