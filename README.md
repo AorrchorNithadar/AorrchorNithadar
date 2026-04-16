@@ -9,7 +9,40 @@ From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science In
 * 🌍 I'm based in Thailand
 * ✉️ You can contact me at [nithadar.s@outlook.com](mailto:nithadar.s@outlook.com)
 * 📞 Phone: `+66614195189`
-* 🧠 I'm learning different languages in writing
+* 🧠 I'm continuously learning new technologies and improving my development skills
+
+### 🚀 Featured Projects
+🧑‍💻 Full Stack Portfolio & CMS System
+
+A dynamic portfolio website with a custom CMS for managing content without redeployment.
+
+Tech: Next.js, Node.js, MongoDB, Firebase
+
+*Admin dashboard for managing projects and content
+*Contact form with backend API integration
+*Authentication system (JWT / Firebase Auth)
+*SEO optimization with SSR
+----------------------------------------
+🛒 E-Commerce Web Application
+
+A full-featured e-commerce platform simulating real-world business logic.
+
+Tech: React, Node.js, Express, MySQL
+
+*Product listing, filtering, and search
+*Shopping cart and checkout flow
+*Order and user management system
+*Payment integration (Mock / Stripe simulation)
+----------------------------------------
+📊 Data Dashboard & Analytics System
+A real-time dashboard for visualizing and analyzing business data.
+
+Tech: React, Firebase, Power BI
+
+*Interactive charts and reports
+*Real-time data updates
+*Role-based access control
+*Integration with Power BI
 
 ### Skills
 
