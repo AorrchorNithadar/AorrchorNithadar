@@ -7,7 +7,7 @@ Software Developer
 From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science Information Technology Branch
 
 * 🌍 I'm based in Thailand
-* ✉️ You can contact me at [nithadar.s@outlook.com](mailto:nithadar.s@outlook.com)
+* ✉️ You can contact me at [nithadar.s@outlook.com](mailto:nithadar.s@outlook.com) , [aorrchor.work@gmail.com](mailto:aorrchor.work@gmail.com)
 * 📞 Phone: `+66614195189`
 * 🧠 I'm continuously learning new technologies and improving my development skills
 
