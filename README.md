@@ -13,7 +13,7 @@ From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science In
 
 ### 💻 Projects
 PoomiScan: [https://poomiscan.netlify.app](https://poomiscan.netlify.app/)
-----------------------------------------
+
 ### 🚀 Featured Projects
 🧑‍💻 Full Stack Portfolio & CMS System
 
