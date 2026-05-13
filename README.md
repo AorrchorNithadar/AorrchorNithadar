@@ -11,6 +11,9 @@ From Kasetsart University, Kamphaeng Saen Faculty of Liberal Arts and Science In
 * 📞 Phone: `+66614195189`
 * 🧠 I'm continuously learning new technologies and improving my development skills
 
+### 💻 Projects
+PoomiScan: [https://poomiscan.netlify.app](https://poomiscan.netlify.app/)
+
 ### 🚀 Featured Projects
 🧑‍💻 Full Stack Portfolio & CMS System
 
